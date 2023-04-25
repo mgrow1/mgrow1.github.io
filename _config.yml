@@ -1,11 +1,11 @@
 title: Michael Grow # your name (or website title) here
 logo: "/images/portfolio_pic.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data scientist with a Masters degree in Data Science from the University of Notre Dame.
   <br><br>
-  Second description 
+  Prevously a high school mathematics and engineering teacher. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/MichaelGrow22">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
