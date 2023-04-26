@@ -4,6 +4,7 @@
 
 [Water Polo Champions League Historical Team Strength and Future Match Predictions](https://public.tableau.com/views/WaterPoloChampionsLeague2008-Present/CurrentSeason)
 <img src="images/ch_league_portfolio_icon.png"/>
+View the code [here](https://github.com/mgrow1/Water_Polo_Champions_League).
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
