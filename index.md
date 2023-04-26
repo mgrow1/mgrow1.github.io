@@ -2,9 +2,9 @@
 
 ---
 
-[Water Polo Champions League Historical Team Strength and Future Match Predictions](https://public.tableau.com/views/WaterPoloChampionsLeague2008-Present/CurrentSeason)
+### Water Polo Champions League Historical Team Strength and Future Match Predictions
 <img src="images/ch_league_portfolio_icon.png"/>
-View the code [here](https://github.com/mgrow1/Water_Polo_Champions_League).
+View the [code](https://github.com/mgrow1/Water_Polo_Champions_League) and the [dashboard](https://public.tableau.com/views/WaterPoloChampionsLeague2008-Present/CurrentSeason).
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -26,7 +26,7 @@ View the code [here](https://github.com/mgrow1/Water_Polo_Champions_League).
 
 ---
 
-
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 
 ---
