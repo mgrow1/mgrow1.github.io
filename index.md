@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Water Polo Champions League Historical Team Strength and Future Match Predictions](https://public.tableau.com/views/WaterPoloChampionsLeague2008-Present/CurrentSeason))
 <img src="images/ch_league_portfolio_icon.png"/>
 
 ---
